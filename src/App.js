@@ -1,10 +1,10 @@
 import './App.css';
-import { Button } from 'react-bootstrap';
+import Header from './components/Header/Header';
 
 function App() {
   return (
     <div className="App">
-      <Button variant="danger">Click Me</Button>
+      <Header></Header>
     </div>
   );
 }
