@@ -6,14 +6,14 @@ const Header = () => {
     return (
         <Navbar className="navbar" variant="light" expand="md">
             <Container>
-                <Navbar.Brand href="#home">Logo</Navbar.Brand>
+                <Navbar.Brand className="fw-bold" href="#home">Logo</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="ms-auto">
-                        <Nav.Link href="#home">Home</Nav.Link>
-                        <Nav.Link href="#features">About</Nav.Link>
-                        <Nav.Link href="#features">Blog</Nav.Link>
-                        <Nav.Link href="#pricing">Register</Nav.Link>
+                        <Nav.Link href="#home">HOME</Nav.Link>
+                        <Nav.Link href="#features">ABOUT</Nav.Link>
+                        <Nav.Link className="me-4" href="#features">BLOG</Nav.Link>
+                        <Nav.Link className="text-white btn btn-primary btn-sm px-3 l1" href="#pricing">REGISTER</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>
