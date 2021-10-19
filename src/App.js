@@ -20,19 +20,19 @@ function App() {
       <AuthProvider>
         <BrowserRouter>
           <Header></Header>
-          <Route exact path="/">
-            <Banner></Banner>
-            <Services></Services>
-            <Doctors></Doctors>
-            <Appoinment></Appoinment>
-          </Route>
-          <Route exact path="/home">
-            <Banner></Banner>
-            <Services></Services>
-            <Doctors></Doctors>
-            <Appoinment></Appoinment>
-          </Route>
           <Switch>
+            <Route exact path="/">
+              <Banner></Banner>
+              <Services></Services>
+              <Doctors></Doctors>
+              <Appoinment></Appoinment>
+            </Route>
+            <Route exact path="/home">
+              <Banner></Banner>
+              <Services></Services>
+              <Doctors></Doctors>
+              <Appoinment></Appoinment>
+            </Route>
             <PrivateRoute exact path="/services/:serviceId">
               <ServiceDetails></ServiceDetails>
             </PrivateRoute>
