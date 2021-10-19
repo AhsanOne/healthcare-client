@@ -1,0 +1,22 @@
+.service-card{
+    cursor: pointer;
+}
+.service-thumbnails{
+    height: 235px;
+    object-fit: cover;
+}
+.thumb-animate{
+    position: relative;
+    transition: all 5s ease;
+}
+ 
+.thumb-animate:hover::after{
+    content: '';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: rgba(0, 0, 0, 0.7) url('../../images/icon/view-details-icon.svg') no-repeat center center;
+    opacity: 0.5;
+}

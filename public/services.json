@@ -2,37 +2,37 @@
     {
         "id": 1,
         "title": "Laboratory Analysis",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "description": "The laboratory was established with funding of the Ministry of Education and Science of the Russian Federation in the framework of the project - The Siberian Arctic Shelf as a Source of Greenhouse Gases of Planetary Significance: Quantitative Assessment of Flows and Identification of Possible Environmental and Climatic Consequences.  The research is conducted under the supervision of Professor Igor Semiletov.",
         "photo_URL": "https://i.ibb.co/sbc1yd7/Laboratory-Analysis.jpg"
     },
     {
         "id": 2,
         "title": "Dental Care",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "description": "Tooth decay and gum disease are caused by plaque, a sticky combination of bacteria and food. Plaque begins to build up on teeth within a few minutes after eating. If teeth are not cleaned well each day, plaque will lead to tooth decay or gum disease. If you do not remove plaque, it turns into a hard deposit called tartar that becomes trapped at the base of the tooth. Plaque and tartar irritate and inflame the gums. Bacteria and the toxins they produce cause the gums to become:",
         "photo_URL": "https://i.ibb.co/4SYnLWD/dental.jpg"
     },
     {
         "id": 3,
         "title": "Outpatient Surgery",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "description": "Packing a bag for a night or two in the hospital might not be on your to-do list if you’re preparing for surgery. Today nearly two-thirds of all operations are performed in outpatient facilities, according to the Centers for Disease Control and Prevention. Your surgery might be performed in a facility connected to a hospital, a separate surgical center or your physician’s office. Outpatient surgery, also called same-day, ambulatory, or office-based surgery, provides patients with the convenience and comfort of recovering at home, and can cost less. It might also help lower your risk of infection.",
         "photo_URL": "https://i.ibb.co/KW3Rz2y/Surgery.jpg"
     },
     {
         "id": 4,
         "title": "Physical Therapy",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "description": "These licensed health professionals engage in specific graduate training in physical therapy. You may hear them called PTs or physiotherapists.As of 2016, to be eligible to sit for the national exam, you need to graduate from an accredited higher educational institution with a Doctor of Physical Therapy (DPT) degree. An additional state exam must also be passed to earn a license. Physical therapists evaluate your condition and develop a care plan that guides your therapy. They may perform hands-on treatments for your symptoms. They also teach you special exercises to help you move and function better. In most states, you can go directly to a physical therapist without a referral from your doctor. Or your doctor might prescribe it. Check your insurance policy to see if you need a prescription to cover the cost.",
         "photo_URL": "https://i.ibb.co/Sf1dNyG/pyhsical-theraphy.jpg"
     },
     {
         "id": 5,
         "title": "Neck Or Back Pain",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "description": "The most common cause of acute back or neck pain is a muscle injury, in which muscle fibers stretch too far and tear. Muscle injury may be caused by overuse, such as from heavy lifting, as well as by repetitive motions that put continual stress on the back or neck muscles.While a muscle injury may not sound like a serious issue, the resulting pain can be severe. Most muscle injuries alleviate within 6 weeks using treatments such as over-the-counter pain medicines, heat or ice therapy, or stretching exercises.",
         "photo_URL": "https://i.ibb.co/DWkC100/pain.jpg"
     },
     {
         "id": 6,
         "title": "Cosmetic Surgery",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "description": "Cosmetic surgery continues to grow in popularity, with 15.1 million cosmetic carried out in the United States in 2013 anincrease of 3 percent on the previous year.Procedures are available for almost any part of the body, but the choice to undergo cosmetic surgery should not be taken lightly. The results are often permanent, so it is important to be sure about the decision, to use an appropriate practitioner, and to have the right motivation.A surgeon may refer a patient for counseling before surgery if they believe there is an underlying problem that cannot be solved by the surgery, or if the patient shows signs of Body Dysmorphic Disorder (BDD).BDD can cause a person to perceive that there is something seriously wrong with their appearance, when objective evidence suggests otherwise.Reconstructive surgery is another type of plastic surgery.",
         "photo_URL": "https://i.ibb.co/BTtNJJn/Cosmetic-surgery.jpg"
     }
 ]
